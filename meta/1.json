@@ -1,0 +1,13 @@
+{
+    "tokenId": "1",
+    "name": "Chickenridge Test Metadata",
+    "description": "This is the Chickenridge Test Metadata Art. It will be removed after the original Token is released.",
+    "image": "https://raw.githubusercontent.com/twireDao/chickenridge-test-metadata/main/chickenridge.png",
+    "external_url": "https://www.twire.community",
+    "attributes": [
+        {
+            "trait_type": "Chickenridge",
+            "value": "001"
+        }
+    ]
+}
